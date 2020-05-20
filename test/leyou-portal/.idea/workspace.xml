@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9fea2c7-e0e8-4098-bb6d-886724708850" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leyou-portal" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Mawen\myrepository" />
+        <option name="mavenHome" value="D:/Mawen/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\Mawen\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfrKA60RGxCXd78TkClszaF4Up" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java学习\代码\leyou-portal\js" />
+      <recent name="D:\Java学习\代码\leyou-portal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fea2c7-e0e8-4098-bb6d-886724708850" name="Default Changelist" comment="" />
+      <created>1589033922411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589033922411</updated>
+      <workItem from="1589033926013" duration="1351000" />
+      <workItem from="1589069220323" duration="906000" />
+      <workItem from="1589157274698" duration="13000" />
+      <workItem from="1589252691320" duration="11836000" />
+      <workItem from="1589324437267" duration="17530000" />
+      <workItem from="1589410851371" duration="6814000" />
+      <workItem from="1589498143159" duration="1443000" />
+      <workItem from="1589552397571" duration="1109000" />
+      <workItem from="1589584070970" duration="1211000" />
+      <workItem from="1589673065661" duration="6042000" />
+      <workItem from="1589711354789" duration="1397000" />
+      <workItem from="1589778425986" duration="9165000" />
+      <workItem from="1589846857447" duration="8749000" />
+      <workItem from="1589896992858" duration="783000" />
+      <workItem from="1589945307125" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
